@@ -1,6 +1,6 @@
 # AI-Based-Mental-Health-Monitoring-and-Support-System
 Final project for the Building AI course
-Summary
+"##Summary"
 The project aims to develop an AI-based system for monitoring and providing support for mental health. By leveraging natural language processing (NLP) and machine learning algorithms, the system will analyze text inputs from users to detect signs of mental distress and offer appropriate support or resources.
 
 Background
